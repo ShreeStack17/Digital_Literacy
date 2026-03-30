@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 - **Name:** Shreeraj Chittewan  
-- **Registration Number:** 25BAI103666  
+- **Registration Number:** 25BAI10366
 - **Branch:** B.Tech CSE(AI&ML)
 - **Year:** 1st Year  
 
