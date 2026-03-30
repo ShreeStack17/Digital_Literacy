@@ -27,7 +27,7 @@ The goal of this project is to help students use digital tools effectively, comm
 - HackerRank challenge screenshot  
 - Google Form screenshot  
 - Google Sheet (responses) screenshot  
-- Quiz link-https://docs.google.com/forms/d/e/1FAIpQLSeR0jGA3Y77Lu20LavROpLarCROvj7-SH2adH0AXwpZ1iE-JA/viewform?usp=header  
+- Quiz link-https://forms.gle/6Zbrr4rToDpTi4iP9
 
 ### 🔹 Task4
 - Professional Emails (text/doc/pdf)  
